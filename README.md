@@ -1,1 +1,5 @@
-# Code Refactor Starter Code
+# Horiseon
+
+Update the client's webpage to meet accessibility standards.
+
+## Instructions
