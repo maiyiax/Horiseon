@@ -29,4 +29,4 @@ For this repository, we will update the client's webpage to meet accessibility s
     * https://github.com/maiyiax/Horiseon
 
 * Deployed URL
-    * https://horiseon.vercel.app/
+    * https://maiyiax.github.io/Horiseon/
